@@ -49,10 +49,17 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 ####  17. Let's Create a Brand New Xcode Project
 
 ####  18. A Walkthrough of the Xcode Development Environment
+
+* xCode
+  * Increase or decrease font size - command + '+' or '-'
   
 ####  19. Let's Design the User Interface!
+* https://www.apple.com/in/iphone/compare
+* https://colorhunt.co/
+* https://www.paintcodeapp.com/news/unlimited-guide-to-iphone-resolutions
    
 ####  20. Let's Incorporate Some Image Assets
+* https://www.appicon.co/
     
 ####  21. How to Design and Add an App Icon
    
@@ -63,6 +70,25 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 ####  24. Join the Student Community
   
 ####  25. How to Ace this Course
+
+
+### Section 3: Xcode Storyboard and Interface Builder Challenge
+
+####  26. What You Will Create
+
+####  27. Step 1: Create a New Xcode Project
+
+####  28. Step 2: Add a Label Element from the Object Library
+
+####  29. Step 3: Add an Image View to the Storyboard
+
+####  30. Step 4: Add an App Icon
+
+####  31. Step 5: Run Your App
+
+####  32. Step 6: Show off your work!
+
+####  33. Tip from Angela - Habit Building with the Calendar Trick
     
 
 
