@@ -70,6 +70,25 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 ####  24. Join the Student Community
   
 ####  25. How to Ace this Course
+
+
+### Section 3: Xcode Storyboard and Interface Builder Challenge
+
+####  26. What You Will Create
+
+####  27. Step 1: Create a New Xcode Project
+
+####  28. Step 2: Add a Label Element from the Object Library
+
+####  29. Step 3: Add an Image View to the Storyboard
+
+####  30. Step 4: Add an App Icon
+
+####  31. Step 5: Run Your App
+
+####  32. Step 6: Show off your work!
+
+####  33. Tip from Angela - Habit Building with the Calendar Trick
     
 
 
