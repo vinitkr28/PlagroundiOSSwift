@@ -49,10 +49,17 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 ####  17. Let's Create a Brand New Xcode Project
 
 ####  18. A Walkthrough of the Xcode Development Environment
+
+* xCode
+  * Increase or decrease font size - command + '+' or '-'
   
 ####  19. Let's Design the User Interface!
+* https://www.apple.com/in/iphone/compare
+* https://colorhunt.co/
+* https://www.paintcodeapp.com/news/unlimited-guide-to-iphone-resolutions
    
 ####  20. Let's Incorporate Some Image Assets
+* https://www.appicon.co/
     
 ####  21. How to Design and Add an App Icon
    
