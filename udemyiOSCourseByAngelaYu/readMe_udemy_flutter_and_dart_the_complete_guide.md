@@ -172,3 +172,28 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 
 ####  68. Tip from Angela - How to Deal with Procrastination
 
+
+### Section 7: Using and Understanding Apple Documentation
+
+####  69. What You'll Make by the End of this Module
+
+####  70. Setting up the Xylophone Project
+
+####  71. The 5 Step Approach to Solve Any Programming Problem
+
+####  72. [Swift Deep Dive] Functions and Scope
+
+####  73. [Coding Exercise] Functions Part 1
+
+####  74. Linking Multiple Buttons to the Same IBAction
+
+####  75. [Swift Deep Dive] Functions with Inputs and Type Inference
+
+####  76. Playing Different Xylophone Sounds
+
+####  77. Boss Challenge
+
+####  78. Download the Completed App Project
+
+####  79. Tip from Angela - Building a Programming Habit
+
