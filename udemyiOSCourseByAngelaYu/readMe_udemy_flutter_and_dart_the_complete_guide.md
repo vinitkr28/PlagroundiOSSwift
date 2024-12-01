@@ -89,6 +89,63 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 ####  32. Step 6: Show off your work!
 
 ####  33. Tip from Angela - Habit Building with the Calendar Trick
+
+
+### Section 4: Swift Programming Basics - Collections, Constants & Variables
+
+####  34. What You'll Make by the End of This Module
     
+####  35. Cloning from GitHub and How to Download the L.A.B. Project Stubs
+* https://github.com/dkhamsing/open-source-ios-apps
+  
+####  36. How to Design Your App
+    
+####  37. Let's Link Our Design to Our Code
+  
+####  38. Responding to User Interactions with IBActions
+
+####  39. Bug Hint ?Thread 1: signal SIGABRT and "Not Key Value Coding Compliant"
+    
+####  40. [Swift Deep Dive] Naming Conventions, Commenting and String Interpolation
+    
+####  41. Storing Data using Variables and Arrays
+
+####  42. [Swift Deep Dive] Variables
+ 
+####  43. [Swift Deep Dive] Arrays
+ 
+####  44. How to Randomise the Dice Images
+ 
+####  45. ?How to Solve the Error: "Maximum number of apps for free development reached"
+ 
+####  46. [Swift Deep Dive] Constants, the Range Operator and Randomisation
+ 
+####  47. Download the Completed App Project
+  
+####  48. Do You Want This?
+  
+####  49. Tip from Angela - Dealing with Distractions
+    
+    
+### Section 5: Swift Programming Basics Challenge
+
+
+####  50. What You Will Create
+
+####  51. Step 1: Clone the Starting Project
+
+####  52. Step 2: Design the User Interface
+
+####  53. Step 3: Link Up the Design with Code
+
+####  54. Step 4: Use Code to Change the 8 Ball Image
+
+####  55. Step 5: Make the Ball Image Random
+
+####  56. Step 6: Show off your work!
+
+####  57. Download the Completed Project
+
+####  58. Tip from Angela - Nothing Easy is Worth Doing!
 
 
