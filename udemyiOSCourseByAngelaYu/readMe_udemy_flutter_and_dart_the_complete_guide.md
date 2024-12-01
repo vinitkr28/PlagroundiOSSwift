@@ -149,3 +149,26 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 ####  58. Tip from Angela - Nothing Easy is Worth Doing!
 
 
+
+### Section 6: Auto Layout and Responsive UIs
+
+####  59. Why do we need Auto Layout?
+
+####  60. Size Classes Explained
+
+####  61. Setting Constraints and working with the Safe Area
+
+####  62. How to use Alignment and Pinning
+
+####  63. Working with Containers and Subviews
+
+####  64. Stack Views
+    
+####  65. Auto Layout (Optional) Boss Challenge
+
+####  66. Download the Completed Project
+
+####  67. Calculator Challenge Solution and Walkthrough
+
+####  68. Tip from Angela - How to Deal with Procrastination
+
