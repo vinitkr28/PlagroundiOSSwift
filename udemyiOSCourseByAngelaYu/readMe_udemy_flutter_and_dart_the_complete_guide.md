@@ -197,3 +197,44 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 
 ####  79. Tip from Angela - Building a Programming Habit
 
+
+### Section 8: Intermediate Swift Programming - Control Flow and Optionals
+
+####  80. What You'll Make by the End of this Module
+
+####  81. Setting up the Egg Timer Project and Linking the Storyboard and ViewController
+
+####  82. [Swift Deep Dive] If-Else Control Flow
+
+####      Coding Exercise 6: [Coding Exercise] IF/ELSE
+
+####  83. [Swift Deep Dive] Switch Statements
+
+####  Coding Exercise 7: [Coding Exercise] Switch
+
+#### 84. Conditional Statements Challenge Solution
+
+#### 85. [Swift Deep Dive] Dictionaries
+
+####   Coding Exercise 8: [Coding Exercise] Dictionaries
+
+#### 86. [Swift Deep Dive] Defining and Unwrapping Optionals
+
+####   Coding Exercise 9: [Coding Exercise] Optionals
+
+#### 87. Dictionary Challenge Solution
+
+#### 88. Implementing a Countdown Timer Challenge
+
+#### 89. Egg Timer Challenge Solution
+
+#### 90. Showing the Timer to the User with a Progress View
+
+#### 91. Calculating the Progress Percentage
+
+#### 92. Using the 5 Step Approach to Debug our App
+
+#### 93. Download the Completed App Project
+
+#### 94. Tip from Angela - Set Your Expectations
+  
