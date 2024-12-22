@@ -237,4 +237,39 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 #### 93. Download the Completed App Project
 
 #### 94. Tip from Angela - Set Your Expectations
-  
+
+
+### Section 9: iOS App Design Patterns and Code Structuring
+
+#### 95. What You'll Make by the End of this Module
+
+#### 96. Setting up the Quizzler Project and Showing the Questions
+
+#### 97. Checking Answers using 2-Dimensional Arrays
+
+#### 98. [Swift Deep Dive] Structures, Methods and Properties
+
+####     Coding Exercise 10: [Coding Exercise] Structures
+
+#### 99. Creating a Question Struct
+
+#### 100. Giving the User Feedback and working with a ProgressView
+
+#### 101. Understand the MVC Design Pattern
+
+#### 102. Implementing MVC and Understanding Parameter Names
+
+#### 103. [Swift Deep Dive] Functions with Outputs and Return Types
+
+####     Coding Exercise 11: [Coding Exercise] Functions Part 3
+
+#### 104. Refactoring to Implement the MVC Design Pattern
+
+#### 105. [Swift Deep Dive] Immutability
+
+#### 106. Using Mutating Functions to Track the Score
+
+#### 107. Download the Completed App Project
+
+#### 108. Tip from Angela - The 20 Minute Method
+    
