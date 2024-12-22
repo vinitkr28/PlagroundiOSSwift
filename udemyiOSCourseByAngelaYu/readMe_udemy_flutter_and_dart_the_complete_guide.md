@@ -272,4 +272,30 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 #### 107. Download the Completed App Project
 
 #### 108. Tip from Angela - The 20 Minute Method
+
+
+### Section 10: iOS App Design Pattern Challenge
+
+#### 109. What You'll Create
+
+#### 110. Step 1: Clone the Starting Project
+* https://github.com/appbrewery/Destini-iOS13
+* https://github.com/appbrewery/Destini-LayoutPractice-iOS13
+* 
+
+#### 111. Step 2: Update the storyLabel and Button Titles
+
+#### 112. Step 3: Create a Structure
+
+#### 113. Step 4: Update the Story
+
+#### 114. Step 5: Apply MVC
+
+#### 115. Step 6: Make the StoryBrain more Scalable
+
+#### 116. Step 7: Show off your Work!
+
+#### 117. Download the Completed App Project
+
+#### 118. Tip from Angela - Retrieval is How You Learn
     
