@@ -298,4 +298,33 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 #### 117. Download the Completed App Project
 
 #### 118. Tip from Angela - Retrieval is How You Learn
-    
+
+
+### Section 11: Advanced Swift Programming - Classes, Inheritance & Advanced Optionals
+
+#### 119. What You'll Make by the End of this Module
+
+#### 120. Learn How to Use a UISlider
+
+#### 121. Using the UISliders to Calculate the BMI
+
+#### 122. [Swift Deep Dive] Classes and Inheritance
+
+#### 123. [Swift Deep Dive] Structs v.s. Classes
+
+#### 124. How to Use the Docs in Xcode and Create a Custom UIViewController Class
+
+#### 125. How to Create a UI Programatically and Pass Data between ViewControllers
+
+#### 126. Segues and Navigation for Multi-Screen Apps
+
+#### 127. Adopting MVC by Creating a CalculatorBrain
+
+#### 128. [Swift Deep Dive] Optional Binding, Chaining, and the Nil Coalescing Operator
+
+#### 129. Use Optionals in Practice and Add the Finishing Touches with Colour Literals
+
+#### 130. Download the Completed App Project
+
+#### 131. Tip from Angela - Learning Before you Eat
+     
