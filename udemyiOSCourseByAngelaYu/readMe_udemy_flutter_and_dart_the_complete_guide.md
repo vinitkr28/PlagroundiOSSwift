@@ -327,4 +327,27 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp
 #### 130. Download the Completed App Project
 
 #### 131. Tip from Angela - Learning Before you Eat
+
+### Section 12: Advanced Swift Programming Challenge 
+
+#### 132. What You'll Make
+     
+#### 133. Step 1: Clone the Starting Project
+     
+#### 134. Step 2: Create IBActions and IBOutlets for the Calculator Screen
+    
+#### 135. Step 3: Create IBActions and IBOutlets for the Results Screen
+    
+#### 136. Step 4: Figure out how much Tip to Apply
+    
+#### 137. Step 5: Figure out how Many People to Split the Bill Between
+     
+#### 138. Step 6: Calculate the Bill
+     
+#### 139. Step 7: Pass the Result to the ResultsViewController
+     
+#### 140. Download the Completed App Project
+     
+#### 141. Tip from Angela - Dealing with Lack of Progress
+   
      
